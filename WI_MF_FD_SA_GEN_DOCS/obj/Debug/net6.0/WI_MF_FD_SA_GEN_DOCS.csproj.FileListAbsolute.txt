@@ -1,0 +1,305 @@
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\appsettings.Development.json
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\appsettings.json
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.exe
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.deps.json
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.runtimeconfig.json
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.pdb
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\MF_FD_SA_AUTH_MANAGER.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.csproj.AssemblyReference.cache
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.GeneratedMSBuildEditorConfig.editorconfig
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.AssemblyInfoInputs.cache
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.AssemblyInfo.cs
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.csproj.CoreCompileInputs.cache
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.MvcApplicationPartsAssemblyInfo.cs
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.MvcApplicationPartsAssemblyInfo.cache
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.build.json
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.development.json
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.WI_MF_FD_SA_GEN_DOCS.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.build.WI_MF_FD_SA_GEN_DOCS.props
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WI_MF_FD_SA_GEN_DOCS.props
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WI_MF_FD_SA_GEN_DOCS.props
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.pack.json
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\scopedcss\bundle\WI_MF_FD_SA_GEN_DOCS.styles.css
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD.002B4ECD.Up2Date
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\refint\WI_MF_FD_SA_GEN_DOCS.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.pdb
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.genruntimeconfig.cache
+d:\Avinash\BackUp\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\ref\WI_MF_FD_SA_GEN_DOCS.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.csproj.AssemblyReference.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.AssemblyInfoInputs.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.AssemblyInfo.cs
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.csproj.CoreCompileInputs.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.MvcApplicationPartsAssemblyInfo.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\refint\WI_MF_FD_SA_GEN_DOCS.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\appsettings.Development.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\appsettings.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.exe
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.deps.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.runtimeconfig.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\MF_FD_SA_AUTH_MANAGER.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_DAL.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_DAL.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.build.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.development.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.WI_MF_FD_SA_GEN_DOCS.Microsoft.AspNetCore.StaticWebAssets.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.build.WI_MF_FD_SA_GEN_DOCS.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WI_MF_FD_SA_GEN_DOCS.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WI_MF_FD_SA_GEN_DOCS.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.pack.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\scopedcss\bundle\WI_MF_FD_SA_GEN_DOCS.styles.css
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD.002B4ECD.Up2Date
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.genruntimeconfig.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\ref\WI_MF_FD_SA_GEN_DOCS.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.MvcApplicationPartsAssemblyInfo.cs
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Select.HtmlToPdf.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\DBHelper.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Select.Html.dep
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\HtmlRenderer.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\HtmlRenderer.PdfSharp.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PdfSharp.Charting.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PdfSharp.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\de\PdfSharp.resources.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PQScan.BarcodeCreator.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PQScan.BarcodeScanner.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\appsettings.Development.json
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\appsettings.json
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Select.Html.dep
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.exe
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.deps.json
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.runtimeconfig.json
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.pdb
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\HtmlRenderer.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\HtmlRenderer.PdfSharp.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Newtonsoft.Json.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PdfSharp.Charting.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PdfSharp.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Data.SqlClient.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Drawing.Common.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Security.Permissions.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Windows.Extensions.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\de\PdfSharp.resources.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\MF_FD_SA_AUTH_MANAGER.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PQScan.BarcodeCreator.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PQScan.BarcodeScanner.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Select.HtmlToPdf.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_DAL.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\DBHelper.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_DAL.pdb
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.csproj.AssemblyReference.cache
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.GeneratedMSBuildEditorConfig.editorconfig
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.AssemblyInfoInputs.cache
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.AssemblyInfo.cs
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.csproj.CoreCompileInputs.cache
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.MvcApplicationPartsAssemblyInfo.cs
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.MvcApplicationPartsAssemblyInfo.cache
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.build.json
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.development.json
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.WI_MF_FD_SA_GEN_DOCS.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.build.WI_MF_FD_SA_GEN_DOCS.props
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WI_MF_FD_SA_GEN_DOCS.props
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WI_MF_FD_SA_GEN_DOCS.props
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.pack.json
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\scopedcss\bundle\WI_MF_FD_SA_GEN_DOCS.styles.css
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD.002B4ECD.Up2Date
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\refint\WI_MF_FD_SA_GEN_DOCS.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.pdb
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.genruntimeconfig.cache
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\ref\WI_MF_FD_SA_GEN_DOCS.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.csproj.AssemblyReference.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.AssemblyInfoInputs.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.AssemblyInfo.cs
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.csproj.CoreCompileInputs.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.MvcApplicationPartsAssemblyInfo.cs
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.MvcApplicationPartsAssemblyInfo.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\refint\WI_MF_FD_SA_GEN_DOCS.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\appsettings.Development.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\appsettings.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Select.Html.dep
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.exe
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.deps.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.runtimeconfig.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\HtmlRenderer.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\HtmlRenderer.PdfSharp.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PdfSharp.Charting.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PdfSharp.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\de\PdfSharp.resources.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\MF_FD_SA_AUTH_MANAGER.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PQScan.BarcodeCreator.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PQScan.BarcodeScanner.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Select.HtmlToPdf.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_DAL.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\DBHelper.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_DAL.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.build.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.development.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.WI_MF_FD_SA_GEN_DOCS.Microsoft.AspNetCore.StaticWebAssets.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.build.WI_MF_FD_SA_GEN_DOCS.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WI_MF_FD_SA_GEN_DOCS.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WI_MF_FD_SA_GEN_DOCS.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.pack.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\scopedcss\bundle\WI_MF_FD_SA_GEN_DOCS.styles.css
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD.002B4ECD.Up2Date
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.genruntimeconfig.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\ref\WI_MF_FD_SA_GEN_DOCS.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Select.Html.dep
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\appsettings.Development.json
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\appsettings.json
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.exe
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.deps.json
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.runtimeconfig.json
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.pdb
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\HtmlRenderer.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\HtmlRenderer.PdfSharp.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PdfSharp.Charting.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PdfSharp.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\de\PdfSharp.Charting.resources.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\de\PdfSharp.resources.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\MF_FD_SA_AUTH_MANAGER.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PQScan.BarcodeCreator.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\PQScan.BarcodeScanner.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\Select.HtmlToPdf.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_DAL.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\DBHelper.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_DAL.pdb
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.csproj.AssemblyReference.cache
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.AssemblyInfoInputs.cache
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.AssemblyInfo.cs
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.csproj.CoreCompileInputs.cache
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.MvcApplicationPartsAssemblyInfo.cs
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.MvcApplicationPartsAssemblyInfo.cache
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.build.json
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.development.json
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.WI_MF_FD_SA_GEN_DOCS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.build.WI_MF_FD_SA_GEN_DOCS.props
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WI_MF_FD_SA_GEN_DOCS.props
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WI_MF_FD_SA_GEN_DOCS.props
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\scopedcss\bundle\WI_MF_FD_SA_GEN_DOCS.styles.css
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD.002B4ECD.Up2Date
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\refint\WI_MF_FD_SA_GEN_DOCS.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.pdb
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS.genruntimeconfig.cache
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS\obj\Debug\net6.0\ref\WI_MF_FD_SA_GEN_DOCS.dll

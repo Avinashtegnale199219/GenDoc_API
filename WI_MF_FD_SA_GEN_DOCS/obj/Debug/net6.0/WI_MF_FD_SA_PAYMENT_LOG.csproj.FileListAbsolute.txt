@@ -1,0 +1,285 @@
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\appsettings.Development.json
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\appsettings.json
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.exe
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.deps.json
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.runtimeconfig.json
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.pdb
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\MF_FD_SA_AUTH_MANAGER.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_BO.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_DAL.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\DBHelper.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_BO.pdb
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_DAL.pdb
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.AssemblyReference.cache
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.GeneratedMSBuildEditorConfig.editorconfig
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.AssemblyInfoInputs.cache
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.AssemblyInfo.cs
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.CoreCompileInputs.cache
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.MvcApplicationPartsAssemblyInfo.cs
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.MvcApplicationPartsAssemblyInfo.cache
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.build.json
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.development.json
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\scopedcss\bundle\WI_MF_FD_SA_PAYMENT_LOG.styles.css
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.CopyComplete
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\refint\WI_MF_FD_SA_PAYMENT_LOG.dll
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.pdb
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.genruntimeconfig.cache
+E:\Working Drive\100005239\Latest\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\ref\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\appsettings.Development.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\appsettings.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.exe
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.deps.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.runtimeconfig.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.pdb
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\MF_FD_SA_AUTH_MANAGER.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_BO.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_DAL.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\DBHelper.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_BO.pdb
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_DAL.pdb
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.AssemblyReference.cache
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.AssemblyInfoInputs.cache
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.AssemblyInfo.cs
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.CoreCompileInputs.cache
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.MvcApplicationPartsAssemblyInfo.cs
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.MvcApplicationPartsAssemblyInfo.cache
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.build.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.development.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.WI_MF_FD_SA_PAYMENT_LOG.Microsoft.AspNetCore.StaticWebAssets.props
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.build.WI_MF_FD_SA_PAYMENT_LOG.props
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WI_MF_FD_SA_PAYMENT_LOG.props
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WI_MF_FD_SA_PAYMENT_LOG.props
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.pack.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\scopedcss\bundle\WI_MF_FD_SA_PAYMENT_LOG.styles.css
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD.4D60E030.Up2Date
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\refint\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.pdb
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.genruntimeconfig.cache
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\CAMPS_LOG_API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\ref\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\appsettings.Development.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\appsettings.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.exe
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.deps.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.runtimeconfig.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.pdb
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\MF_FD_SA_AUTH_MANAGER.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_BO.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_DAL.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\DBHelper.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_BO.pdb
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_DAL.pdb
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.AssemblyReference.cache
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.AssemblyInfoInputs.cache
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.AssemblyInfo.cs
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.CoreCompileInputs.cache
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.MvcApplicationPartsAssemblyInfo.cs
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.MvcApplicationPartsAssemblyInfo.cache
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.build.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.development.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.WI_MF_FD_SA_PAYMENT_LOG.Microsoft.AspNetCore.StaticWebAssets.props
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.build.WI_MF_FD_SA_PAYMENT_LOG.props
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WI_MF_FD_SA_PAYMENT_LOG.props
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WI_MF_FD_SA_PAYMENT_LOG.props
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.pack.json
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\scopedcss\bundle\WI_MF_FD_SA_PAYMENT_LOG.styles.css
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD.4D60E030.Up2Date
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\refint\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.pdb
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.genruntimeconfig.cache
+F:\WorkingDrive\100002892\FD_NEW\SUPER API\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\ref\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\appsettings.Development.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\appsettings.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.exe
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.deps.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.runtimeconfig.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\MF_FD_SA_AUTH_MANAGER.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_BO.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_DAL.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\DBHelper.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_BO.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_DAL.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.AssemblyReference.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.AssemblyInfoInputs.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.AssemblyInfo.cs
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.CoreCompileInputs.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.MvcApplicationPartsAssemblyInfo.cs
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.MvcApplicationPartsAssemblyInfo.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.build.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.development.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.WI_MF_FD_SA_PAYMENT_LOG.Microsoft.AspNetCore.StaticWebAssets.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.build.WI_MF_FD_SA_PAYMENT_LOG.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WI_MF_FD_SA_PAYMENT_LOG.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WI_MF_FD_SA_PAYMENT_LOG.props
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.pack.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\scopedcss\bundle\WI_MF_FD_SA_PAYMENT_LOG.styles.css
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD.4D60E030.Up2Date
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\refint\WI_MF_FD_SA_PAYMENT_LOG.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.genruntimeconfig.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Final\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\ref\WI_MF_FD_SA_PAYMENT_LOG.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\appsettings.Development.json
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\appsettings.json
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.exe
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.deps.json
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.runtimeconfig.json
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.pdb
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.OpenApi.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Newtonsoft.Json.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Data.SqlClient.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Drawing.Common.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Security.Permissions.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\System.Windows.Extensions.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\MF_FD_SA_AUTH_MANAGER.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_BO.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_DAL.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\DBHelper.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_BO.pdb
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\bin\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG_DAL.pdb
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.AssemblyReference.cache
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.GeneratedMSBuildEditorConfig.editorconfig
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.AssemblyInfoInputs.cache
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.AssemblyInfo.cs
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.csproj.CoreCompileInputs.cache
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.MvcApplicationPartsAssemblyInfo.cs
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.MvcApplicationPartsAssemblyInfo.cache
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.build.json
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.development.json
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.WI_MF_FD_SA_PAYMENT_LOG.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.build.WI_MF_FD_SA_PAYMENT_LOG.props
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WI_MF_FD_SA_PAYMENT_LOG.props
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WI_MF_FD_SA_PAYMENT_LOG.props
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\staticwebassets.pack.json
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\scopedcss\bundle\WI_MF_FD_SA_PAYMENT_LOG.styles.css
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD.4D60E030.Up2Date
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\refint\WI_MF_FD_SA_PAYMENT_LOG.dll
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.pdb
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\WI_MF_FD_SA_PAYMENT_LOG.genruntimeconfig.cache
+d:\Avinash\BackUp\WI_MF_FD_SA_PAYMENT_LOG\WI_MF_FD_SA_PAYMENT_LOG\obj\Debug\net6.0\ref\WI_MF_FD_SA_PAYMENT_LOG.dll

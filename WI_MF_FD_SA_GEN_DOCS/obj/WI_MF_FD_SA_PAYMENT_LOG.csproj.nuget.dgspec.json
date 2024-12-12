@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG.csproj": {}
+  },
+  "projects": {
+    "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG.csproj",
+        "projectName": "WI_MF_FD_SA_PAYMENT_LOG",
+        "projectPath": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG.csproj",
+        "packagesPath": "C:\\Users\\100004659\\.nuget\\packages\\",
+        "outputPath": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\100004659\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_BO\\WI_MF_FD_SA_PAYMENT_LOG_BO.csproj": {
+                "projectPath": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_BO\\WI_MF_FD_SA_PAYMENT_LOG_BO.csproj"
+              },
+              "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_DAL\\WI_MF_FD_SA_PAYMENT_LOG_DAL.csproj": {
+                "projectPath": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_DAL\\WI_MF_FD_SA_PAYMENT_LOG_DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_BO\\WI_MF_FD_SA_PAYMENT_LOG_BO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_BO\\WI_MF_FD_SA_PAYMENT_LOG_BO.csproj",
+        "projectName": "WI_MF_FD_SA_PAYMENT_LOG_BO",
+        "projectPath": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_BO\\WI_MF_FD_SA_PAYMENT_LOG_BO.csproj",
+        "packagesPath": "C:\\Users\\100004659\\.nuget\\packages\\",
+        "outputPath": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_BO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\100004659\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_DAL\\WI_MF_FD_SA_PAYMENT_LOG_DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_DAL\\WI_MF_FD_SA_PAYMENT_LOG_DAL.csproj",
+        "projectName": "WI_MF_FD_SA_PAYMENT_LOG_DAL",
+        "projectPath": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_DAL\\WI_MF_FD_SA_PAYMENT_LOG_DAL.csproj",
+        "packagesPath": "C:\\Users\\100004659\\.nuget\\packages\\",
+        "outputPath": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\100004659\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_BO\\WI_MF_FD_SA_PAYMENT_LOG_BO.csproj": {
+                "projectPath": "d:\\Avinash\\BackUp\\WI_MF_FD_SA_PAYMENT_LOG\\WI_MF_FD_SA_PAYMENT_LOG_BO\\WI_MF_FD_SA_PAYMENT_LOG_BO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

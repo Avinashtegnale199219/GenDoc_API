@@ -1,0 +1,60 @@
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.csproj.AssemblyReference.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.AssemblyInfoInputs.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.AssemblyInfo.cs
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.csproj.CoreCompileInputs.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.deps.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\refint\WI_MF_FD_SA_GEN_DOCS_BO.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\ref\WI_MF_FD_SA_GEN_DOCS_BO.dll
+D:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.deps.json
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.csproj.AssemblyReference.cache
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.GeneratedMSBuildEditorConfig.editorconfig
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.AssemblyInfoInputs.cache
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.AssemblyInfo.cs
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.csproj.CoreCompileInputs.cache
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\refint\WI_MF_FD_SA_GEN_DOCS_BO.dll
+d:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+D:\Avinash\10042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\ref\WI_MF_FD_SA_GEN_DOCS_BO.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.deps.json
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.csproj.AssemblyReference.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.AssemblyInfoInputs.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.AssemblyInfo.cs
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.csproj.CoreCompileInputs.cache
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\refint\WI_MF_FD_SA_GEN_DOCS_BO.dll
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+F:\WorkingDrive\100004659\BitBucket\SUPER APP\Super APP Gen doc\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\ref\WI_MF_FD_SA_GEN_DOCS_BO.dll
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.deps.json
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.csproj.AssemblyReference.cache
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.AssemblyInfoInputs.cache
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.AssemblyInfo.cs
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.csproj.CoreCompileInputs.cache
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\refint\WI_MF_FD_SA_GEN_DOCS_BO.dll
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+D:\Avinash\BackUp\11042024\11042024\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\ref\WI_MF_FD_SA_GEN_DOCS_BO.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.deps.json
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\bin\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.csproj.AssemblyReference.cache
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.AssemblyInfoInputs.cache
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.AssemblyInfo.cs
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.csproj.CoreCompileInputs.cache
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\refint\WI_MF_FD_SA_GEN_DOCS_BO.dll
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\WI_MF_FD_SA_GEN_DOCS_BO.pdb
+D:\Avinash\Super APP\WI_MF_FD_SA_GEN_DOCS\WI_MF_FD_SA_GEN_DOCS_BO\obj\Debug\net6.0\ref\WI_MF_FD_SA_GEN_DOCS_BO.dll

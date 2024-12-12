@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+	  <!--<TargetFramework>net6.0</TargetFramework>-->
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\SaveFDConfigDetailsController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!--<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />-->
+	  <PackageReference Include="HtmlRenderer.Core" Version="1.5.0.6" />
+	  <PackageReference Include="HtmlRenderer.PdfSharp" Version="1.5.0.6" />
+	  <PackageReference Include="Select.HtmlToPdf" Version="19.1.*" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WI_MF_FD_SA_GEN_DOCS_BO\WI_MF_FD_SA_GEN_DOCS_BO.csproj" />
+    <ProjectReference Include="..\WI_MF_FD_SA_GEN_DOCS_DAL\WI_MF_FD_SA_GEN_DOCS_DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MF_FD_SA_AUTH_MANAGER">
+      <HintPath>\\172.30.0.223\Central Document\Gauravi\DLL\SUPER API DLL\MF_FD_SA_AUTH_MANAGER.dll</HintPath>
+      <!-- <HintPath>D:\Avinash\SuperAppDll\MF_FD_SA_AUTH_MANAGER.dll</HintPath> -->
+    </Reference>
+    <Reference Include="PQScan.BarcodeCreator">
+      <HintPath>\\172.30.0.223\Central Document\Shiv\@dlls\PQScan.BarcodeCreator.dll</HintPath>
+      <!-- <HintPath>D:\Avinash\SuperAppDll\PQScan.BarcodeCreator.dll</HintPath> -->
+    </Reference>
+    <Reference Include="PQScan.BarcodeScanner">
+      <HintPath>\\172.30.0.223\Central Document\Shiv\@dlls\PQScan.BarcodeScanner.dll</HintPath>
+      <!-- <HintPath>D:\Avinash\SuperAppDll\PQScan.BarcodeScanner.dll</HintPath> -->
+    </Reference>
+    <Reference Include="Select.HtmlToPdf">
+      <HintPath>\\172.30.0.223\Central Document\Shiv\@dlls\Select.HtmlToPdf.dll</HintPath>
+       <!-- <HintPath>D:\Avinash\SuperAppDll\Select.HtmlToPdf.dll</HintPath> -->
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Public\Html\" />
+  </ItemGroup>
+
+</Project>
